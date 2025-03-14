@@ -1,8 +1,9 @@
 /*
-  Content-Security-Policy: upgrade-insecure-requests, default-src 'none'; font-src 'self'; style-src 'self'; script-src 'none'; object-src 'none'
+  Content-Security-Policy: upgrade-insecure-requests, base-uri 'none'; default-src 'none'; font-src 'self'; style-src 'self'; script-src 'none'; object-src 'none'; form-action 'none'; frame-ancestors 'none'
   X-Frame-Options: DENY
   Referrer-Policy: no-referrer
   X-Content-Type-Options: nosniff
   Cross-Origin-Resource-Policy: same-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains
-  Server: Tag 2 electric boogaloo
+  Actual-Server: Tag 2 electric boogaloo
+  Joe-Biden: Eat some chocolate chocolate chip!
