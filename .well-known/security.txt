@@ -6,15 +6,15 @@ Hash: SHA512
 # If you notice any errors or vulnerabilities with the site please let me know immediately!
 Contact: mailto:ig@isaac.run
 
-Canonical: https://isaac.run/.well-known/security.txt
-Encryption: https://isaac.run/.well-known/public.gpg
+Canonical: https://www.isaac.run/.well-known/security.txt
+Encryption: https://www.isaac.run/.well-known/public.gpg
 Preferred-Languages: en
 
 Expires: 2025-09-15T00:00:00.000Z
 -----BEGIN PGP SIGNATURE-----
 
-iIMEARYKACsWIQT9yrsJWYjmbEUcvSETTT3J6fzITwUCZ9PC3w0caWdAaXNhYWMu
-cnVuAAoJEBNNPcnp/MhP/CgBAIe2vHWMYRluCR9/grq1FL1C94XE2DYVNUwDqbi0
-/LnAAQCYStRvMjrfoxgDw95K+DUm+Ca9pkWD+5/NzlAa0Xb2Dg==
-=0tbi
+iIMEARYKACsWIQT9yrsJWYjmbEUcvSETTT3J6fzITwUCZ9PfIw0caWdAaXNhYWMu
+cnVuAAoJEBNNPcnp/MhP7CYBAPHUfs4K6pFr8RF5xQK9ToMwlHG70h54jjB7oDo7
+BB4+AQDMbNF6GgsAMjzl/uhGNVIl4dt0Lu0F3/JBtn4xfc+7Bw==
+=6dsj
 -----END PGP SIGNATURE-----
