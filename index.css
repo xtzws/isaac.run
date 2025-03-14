@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Beast";
+  font-style: normal;
+  font-weight: 400;
+  src: url("Beast.woff2");
+}
+
+html {
+  font-family: Beast;
+}
