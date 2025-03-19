@@ -1,0 +1,4 @@
+# robots.txt for isaac.run
+
+User-agent: *
+Disallow: /
