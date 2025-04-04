@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: upgrade-insecure-requests; base-uri 'none'; default-src 'none'; font-src 'self'; form-action 'none'; img-src 'self'; object-src 'none'; script-src 'sha512-P6pA99trHkg8qamw+QZ+qVihPF5m4k7R9RSj+YljYVHt04+eYV1ELtZkhDEikEhBROqURMezBUBpw4LpSD0iAQ==' 'sha512-lauDmX7n4S0lCh1VPRXdi8xbww2QRO9E8MMGa1EJ3RE67QommijBRdTecaQM2rKpxqEGZg/3Gbk6gzZAvcbVUQ=='; style-src 'self'; frame-ancestors 'none';
+  Content-Security-Policy: upgrade-insecure-requests; base-uri 'none'; default-src 'none'; font-src 'self'; form-action 'none'; img-src 'self'; object-src 'none'; script-src 'sha512-P6pA99trHkg8qamw+QZ+qVihPF5m4k7R9RSj+YljYVHt04+eYV1ELtZkhDEikEhBROqURMezBUBpw4LpSD0iAQ==' 'sha512-lauDmX7n4S0lCh1VPRXdi8xbww2QRO9E8MMGa1EJ3RE67QommijBRdTecaQM2rKpxqEGZg/3Gbk6gzZAvcbVUQ=='; style-src 'self'; frame-ancestors 'none'; connect-src 'self';
   X-Frame-Options: DENY
   Referrer-Policy: no-referrer
   X-Content-Type-Options: nosniff
