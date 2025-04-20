@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Satoshi";
+  font-weight: 300 900;
+  font-style: normal;
+  src: url("Satoshi-Variable.woff2") format("woff2");
+}
+
+html {
+  font-family: "Satoshi";
+  font-size: 1.05em;
+  font-feature-settings: "ss02" 1, "ss03" 1;
+  text-wrap: pretty;
+}
+
+body {
+  max-width: 750px;
+  margin-inline: auto;
+  padding: 10px;
+}
+
+h1 {
+  text-decoration: underline #0E4385 wavy;
+}
+
+h2 {
+  text-decoration: underline #C52947 wavy;
+}
+
+p {
+  font-weight: 450;
+  margin-block: 1lh;
+}
+
+a {
+  color: #C52947;
+}
+
+.clref {
+  text-align: center;
+}
+
+.climg {
+  max-width: 31px;
+  display: block;
+  margin-inline: auto;
+  margin-block-end: -1lh;
+}
+
+.anchor {
+  scroll-margin-top: 70px;
+}
