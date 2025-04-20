@@ -19,11 +19,13 @@ body {
 }
 
 h1 {
-  text-decoration: underline #0E4385 wavy;
+  text-decoration: underline #0E4385;
+  text-decoration-style: wavy;
 }
 
 h2 {
-  text-decoration: underline #C52947 wavy;
+  text-decoration: underline #C52947;
+  text-decoration-style: wavy;
 }
 
 p {
