@@ -10,6 +10,8 @@ html {
   font-size: 1.05em;
   font-feature-settings: "ss02" 1, "ss03" 1;
   text-wrap: pretty;
+  background-color: antiquewhite;
+  color: rgb(81, 52, 36);
 }
 
 body {
