@@ -14,7 +14,7 @@
 }
 
 html {
-  font-family: "Satoshi";
+  font-family: "Satoshi", "Inter", "Arial", sans-serif;
   font-size: 1.05em;
   font-feature-settings: "ss02" 1, "ss03" 1;
   text-wrap: pretty;
