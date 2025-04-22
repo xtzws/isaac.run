@@ -6,13 +6,20 @@
   src: url("Satoshi-Variable.woff2") format("woff2");
 }
 
+:root {
+  --isaac-blue: #0E4385;
+  --isaac-red: #C52947;
+  --minimal-background: antiqueWhite;
+  --lec-brown: rgb(81, 52, 36);
+}
+
 html {
   font-family: "Satoshi";
   font-size: 1.05em;
   font-feature-settings: "ss02" 1, "ss03" 1;
   text-wrap: pretty;
-  background-color: antiquewhite;
-  color: rgb(81, 52, 36);
+  background-color: var(--minimal-background);
+  color: var(--lec-brown);
 }
 
 body {
@@ -23,19 +30,19 @@ body {
 
 h1 {
   text-decoration-line: underline;
-  text-decoration-color: #0E4385;
+  text-decoration-color: var(--isaac-blue);
   text-decoration-style: wavy;
 }
 
 h2 {
   text-decoration-line: underline;
-  text-decoration-color: #C52947;
+  text-decoration-color: var(--isaac-red);
   text-decoration-style: wavy;
 }
 
 h3 {
   text-decoration-line: underline;
-  text-decoration-color: #0E4385;
+  text-decoration-color: var(--isaac-blue);
   text-decoration-style: double;
 }
 
@@ -44,8 +51,12 @@ p {
   margin-block: 1lh;
 }
 
+li {
+  font-weight: 450;
+}
+
 a {
-  color: #C52947;
+  color: var(--isaac-red);
 }
 
 .clref {
@@ -57,8 +68,4 @@ a {
   display: block;
   margin-inline: auto;
   margin-block-end: -1lh;
-}
-
-.anchor {
-  scroll-margin-top: 70px;
 }

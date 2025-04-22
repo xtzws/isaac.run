@@ -1,0 +1,60 @@
+--------------------------------------------------------------------
+| THIS WORK, AND ALL SUBSEQUENT RELEASES, VERSIONS, MODIFICATIONS, |
+| AND UPDATES ARE COPYRIGHT © ISAAC GREENE, AND MAY BE RELEASED    |
+| UNDER THIS LICENSE.                                              |
+|                                                                  |
+| COPIES OF THIS SOURCE CODE MAY BE MADE AVAILABLE BY WRITTEN      |
+| REQUEST TO ISAAC GREENE. ISAAC GREENE IS GIVEN FULL DISCRETION   |
+| TO APPROVE OR DENY THESE REQUESTS.                               |
+| CHANGES MAY BE MADE TO THIS LICENSE AT ANY TIME WITHOUT          |
+| NOTICE OR WARNING.                                               |
+|                                                                  |
+| BY ANY USE OF THIS SOFTWARE AND/OR LICENSE YOU AGREE THAT:       |
+|    1. YOU ARE SUBJECT TO THE TERMS PUT FORTH IN THIS LICENSE.    |
+|    2. YOU HAVE NO GUARANTEED RIGHTS REGARDING THE USE OF THIS    |
+|    APPLICATION OR LICENSE.                                       |
+|    3. YOUR ACCESS TO THIS SOFTWARE MAY BE REVOKED AT ANY TIME    |
+|        3A. IF YOUR ACCESS IS REVOKED, YOU MAY CONTINUE TO USE    |
+|        AND KEEP YOUR CURRENT COPY OF THIS SOFTWARE AND THIS      |
+|        LICENSE WILL BE REPLACED WITH AN UPDATED VERSION FOR      |
+|        YOU TO USE                                                |
+|                                                                  |
+| Under the terms of this license, you agree that you may:         |
+|    - view all source code and files contained in this package    |
+|    - make copies of this code, in whole or in part, for          |
+|        personal use                                              |
+|    - share copies of this license and/or code, provided this     |
+|        work is never publicly available                          |
+|    - test this code on your personal systems                     |
+|    - show copies of this code to other people                    |
+|                                                                  |
+| Under the terms of this license, you agree that may not:         |
+|    - Use this code for commercial purposes                       |
+|    - Modify this code or license                                 |
+|                                                                  |
+| ANY RIGHTS NOT EXPLICITLY GRANTED TO YOU IN THIS LICENSE ARE     |
+| AUTOMATICALLY UNDER CONTROL OF ISAAC GREENE.                     |
+| ALL PROVISIONS IN THIS LICENSE MAY BE MODIFIED ON A PER-CASE     |
+| BASIS ON REQUEST, SUBJECT TO APPROVAL.                           |
+| Permission to distribute, modify, publish, monetize, or otherwise|
+| go against the preset terms of this license may be granted, in   |
+| writing, by Isaac Greene.                                        |
+|                                                                  |
+| ALL REDISTRIBUTIONS OF THIS WORK(S) MUST INLCLUDE A COPY OF THIS |
+| LICENSE IN THE ABOVE FORM AND THE FOLLOWING DISCLAIMER IN THE    |
+| DOCUMENTATION AND/OR OTHER MATERIALS PROVIDED.                   |
+|                                                                  |
+| THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND           |
+| CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES       |
+| INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF         |
+| MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE         |
+| DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR            |
+| CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,     |
+| SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT |
+| LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF |
+| USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED  |
+| AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT      |
+| LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING   |
+| IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF   |
+| THE POSSIBILITY OF SUCH DAMAGE.                                  |
+--------------------------------------------------------------------
