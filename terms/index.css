@@ -2,6 +2,7 @@
   font-family: "Satoshi";
   font-weight: 300 900;
   font-style: normal;
+  font-display: swap;
   src: url("Satoshi-Variable.woff2") format("woff2");
 }
 
@@ -30,6 +31,12 @@ h2 {
   text-decoration-line: underline;
   text-decoration-color: #C52947;
   text-decoration-style: wavy;
+}
+
+h3 {
+  text-decoration-line: underline;
+  text-decoration-color: #0E4385;
+  text-decoration-style: double;
 }
 
 p {
