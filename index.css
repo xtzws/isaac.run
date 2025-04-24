@@ -8,3 +8,13 @@
 html {
   font-family: Beast;
 }
+
+.terms {
+  font-family: "Satoshi", "Olympic Sans", "Beast", "Arial", sans-serif;
+  font-weight: 450;
+  position: fixed;
+  bottom: 0;
+  width: fit-content;
+  max-width: 500px;
+  margin-inline: auto;
+}
