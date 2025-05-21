@@ -8,13 +8,18 @@
 
 :root {
   --isaac-blue: #0E4385;
+  --logy-lightblue: rgb(179, 236, 252);
   --isaac-red: #C52947;
   --minimal-background: antiqueWhite;
   --lec-brown: rgb(81, 52, 36);
 }
 
+::selection {
+  background-color: var(--logy-lightblue);
+}
+
 html {
-  font-family: "Satoshi", "Inter", "Arial", sans-serif;
+  font-family: "Satoshi", "Olympic Sans", "Arial", sans-serif;
   font-size: 1.05em;
   font-feature-settings: "ss02" 1, "ss03" 1;
   text-wrap: pretty;
@@ -46,6 +51,25 @@ h3 {
   text-decoration-style: double;
 }
 
+table {
+  border: 1px solid var(--lec-brown);
+  margin-inline: auto;
+  border-collapse: separate;
+  border-radius: 10px;
+  border-spacing: 0;
+  overflow: hidden;
+}
+
+td, th {
+  border-bottom: 1px solid var(--lec-brown);
+  text-align: left;
+  padding: 8px;
+}
+
+td:first-child {font-feature-settings: "tnum" 1;}
+tr:last-child th {border-bottom: 0px;}
+tr:hover {background-color: var(--logy-lightblue);}
+
 p {
   font-weight: 450;
   margin-block: 1lh;
@@ -59,13 +83,30 @@ a {
   color: var(--isaac-red);
 }
 
-.clref {
-  text-align: center;
-}
-
+.clref {text-align: center;}
+.clfooter {margin-top: 1lh;}
 .climg {
   max-width: 31px;
   display: block;
   margin-inline: auto;
   margin-block-end: -1lh;
+}
+.clmain {
+  font-weight: 450;
+  margin-block: 1lh;
+}
+
+caption {
+  margin-top: .5lh;
+  caption-side: bottom;
+}
+
+mark {
+  background-color: var(--logy-lightblue);
+  color: var(--lec-brown);
+  font-style: italic;
+}
+
+hr {
+  border: 1px solid var(--lec-brown);
 }
