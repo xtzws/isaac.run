@@ -326,7 +326,7 @@ those Terms and this Agreement, those Terms shall prevail.
 Vectorization
 You may request that I vectorize or remaster certain design files. You agree such
 files and designs are owned by you or that you have permission to use such files.
-I can not and will be held liable in any event, including copyright infringement,
+I can not and will not be held liable in any event, including copyright infringement,
 regarding the use of files I have vectorized. You are responsible for obeying
 the law.
 
