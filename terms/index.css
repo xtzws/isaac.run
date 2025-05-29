@@ -12,6 +12,11 @@
   --isaac-red: #C52947;
   --minimal-background: antiqueWhite;
   --lec-brown: rgb(81, 52, 36);
+
+  --evil-blue: #011222;
+  --evil-lightblue: #97C9D7;
+  --evil-red: #9D1735;
+  --evil-ferrariblue: #85C9FF;
 }
 
 ::selection {
@@ -72,6 +77,7 @@ tr:hover {background-color: var(--logy-lightblue);}
 
 p {
   font-weight: 450;
+  line-height: 1.5;
   margin-block: 1lh;
 }
 
@@ -89,6 +95,7 @@ a {
   max-width: 31px;
   display: block;
   margin-inline: auto;
+  margin-top: 1em;
   margin-block-end: -1lh;
 }
 .clmain {
@@ -109,4 +116,32 @@ mark {
 
 hr {
   border: 1px solid var(--lec-brown);
+}
+
+.badges img {
+  image-rendering: pixelated;
+  width: 88px;
+  height: 31px;
+  text-decoration: none;
+}
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 4px
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: var(--evil-blue);
+    color: var(--evil-lightblue);
+  }
+  hr {
+    border: 1px solid var(--evil-lightblue);
+  }
+  a {color: var(--logy-lightblue);}
+  h1,h3 {text-decoration-color: var(--evil-red);}
+  h2 {text-decoration-color: var(--evil-ferrariblue);}
+  ::selection {color: var(--evil-blue);}
+  mark {color: var(--evil-blue);}
 }
