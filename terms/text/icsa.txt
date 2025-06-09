@@ -302,7 +302,7 @@ You should include a notice in your privacy policy that some basic analytics
 are being collected. I do not provide a privacy policy or terms of use; however, 
 I can advise on certain clauses as they apply to technologies used in my Services.
 
-Effective: 2025-06-09
+Effective: 2025-05-27
 
 ------------------------------------------------------------------------------
 Domain name registration
