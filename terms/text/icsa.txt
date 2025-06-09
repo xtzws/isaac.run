@@ -1,0 +1,348 @@
+Isaac's Commercial Services Agreement
+
+==============================================================================
+1. Application
+This document is an agreement between:
+  Isaac Greene and my affiliates ("I", "me", "my", etc.); and 
+  [business], and its members, officers, and agents.
+"You" (or "your", "yours", etc.) refers both to the entity agreeing to this document 
+and the above mentioned organization.
+
+The Isaac's Commercial Services Agreement (the "Agreement") applies to your use 
+of any commercial services (the or my "Services") provided to you by me. You 
+acknowledge and agree that your use of the Services is governed by the terms of 
+this Agreement. You warrant that you are a) acting as an individual or as an 
+authorized agent on behalf of an organization; b) entering into this Agreement 
+of your own free will; and c) truthfully representing your intended usage of my 
+Services. This Agreement may change at any time with 30 days notice.
+
+If you do not agree to this Agreement, you may not use the Services. If you 
+reject this Agreement after previously agreeing to it, you must immediately 
+cease use of the Services.
+
+Service-specific terms are attached at the end of this Agreement. Where necessary, 
+this Agreement may be modified to match your needs. Should this occur, an Addendum 
+will be created and sent to you for the specific Services you use.
+
+For each Service you use, a new account is created in your name for use in that 
+particular Service. Your accounts are referred to collectively as the "Source 
+Account", and any specific accounts are generically referred to as a "Service 
+Account" for the Service you are using, or in reference to the Service provided. 
+For example, "Website Account" and "VPN Account" are both a "Service Account."
+
+------------------------------------------------------------------------------
+2. Content
+Some of my Services include the ability to upload, distribute, or modify content. 
+You warrant that you own or have permission to use content you upload using the 
+Services. You may, at your discretion, make use of generative artificial 
+intelligence to produce content for inclusion in my Services. You acknowledge 
+that I have no obligation to include such content. You further acknowledge that 
+such content is in the public domain, and as such, you have no control of 
+ownership over the work. You retain all rights of submitted content, except 
+where otherwise provided. To the extent necessary to provide the Services, you 
+grant me a worldwide, royalty-free, intellectual property license to use your 
+content, for example, to make available to others the contents of your website. 
+You may not submit content using the Services under other terms.
+
+Without proper authorization, it is prohibited to use my work or content in any 
+circumstance. For some Services, such as website hosting or design, I may provide 
+boilerplate code or templates for your convenience. You may edit or adapt these 
+freely, but you may not redistribute them. Some content I provide to you may be
+covered under a separate license than covered here; if that is the case, you 
+must follow the terms of the attached license.
+
+Content I provide to you remains my original work and under my ownership until
+such point as the project has been completed. For example, if I design a logo
+for you, it remains my work until I transmit all source files. Project completion
+refers only to the initial creation stage, and does not include continued hosting
+or maintenance of the content. Project completion occurs when all files are sent
+with an appropriate notice or a Final Declaration form is signed, along with a
+written notice of copyright transfer.
+
+To maintain availability and a quality of service, you acknowledge that I have 
+the right, but not the obligation, to remove content in contradiction of this 
+Agreement. I further represent to you that I will respond to all legitimate 
+requests for content removal under 17 USC Section 512(c)(3).
+
+------------------------------------------------------------------------------
+3. Limitation of liability
+I will defend you against any third party claim brought against you, to the 
+extent that such claim is based on an allegation that a paid Service, 
+when used as authorized under this Agreement, infringes a United States or 
+European Union patent or registered copyright, and I will indemnify you against 
+any damages and costs (including reasonable legal fees) awarded by a court of 
+competent jurisdiction attributable to such a claim or agreed to settlement by 
+myself. If any portion of a paid Service becomes or I believe is likely 
+to become the subject of an infringement claim, I may: a) work to procure the 
+right for your continued use of the paid Service; b) modify the paid 
+Service so it is non-infringing; or c) terminate the paid Service and 
+refund your pre-paid costs that would have otherwise covered the remainder of 
+your use, and upon termination you agree to immediately cease use of that paid 
+Service. I have no obligation under this paragraph with respect to an infringement 
+claim that is based upon: a) any use of a paid Service in violation of 
+this Agreement; b) any use of a paid Service in combination with another 
+product or service not provided by me; or c) any modification of a paid 
+Service by any person other than myself or my authorized agents. This paragraph 
+outlines my sole and exclusive obligations and your sole and exclusive remedies 
+for any claims of infringement of intellectual property rights.
+
+I make no guarantees for the Services I provide. You agree to indemnify and 
+hold harmless myself and any third parties I may contract with to provide the 
+Services to you from any demands, loss, liability, claims or expenses (including 
+attorneys' fees), made against me by any third party due to or arising out of 
+or in connection with your use of the Services.
+
+I have absolutely no liability in any event for any direct, indirect, inconsequential, 
+exemplary, incidental or punitive damages, including lost profits, even if I 
+have been advised of the possibility of such damages. To the maximum extent 
+permitted by law, these limitations and exclusions apply to anything or any 
+claims related to this Agreement, the Services, or the software related to 
+the Services.
+
+------------------------------------------------------------------------------
+4. Licensing
+You are granted a commercial, worldwide, non-exclusive, non-sublicensable, 
+non-transferable, royalty-free, terminable license to use and access my Services.
+Re-selling or re-distributing my Services is not granted under this license.
+
+You acknowledge that my Services and the designs embodied therein are protected 
+by copyright, other intellectual property rights and industrial property rights 
+and by international treaties. They are and remain at all times the intellectual 
+property of myself.
+
+You may not grant others access to my Services, except as otherwise provided. 
+Deriving gain, except as permitted by law, from my Services or its contents 
+without prior written consent is prohibited. Hotlinking to my Services or otherwise 
+accessing Service resources without prior permission is strictly prohibited.
+
+------------------------------------------------------------------------------
+5. Availability
+I attempt to keep my Services available 24/7, but interruptions may occur due 
+to outages, maintenance or other circumstances. Factors in availability also 
+include your connection to the Internet which may not be stable. A faultless 
+operation is impossible, and I do not accept responsibility for any errors that 
+may occur. There is no guarantee of uptime or availability of any of my Services. 
+You may not represent to users that any facet of your use which is dependent on
+my Services has any guarantee of availability. You understand that I reserve the 
+right to modify, restrict, or discontinue any aspect of the Services at any time.
+
+As a condition of receiving my Services, you acknowledge that I keep no backups 
+of your files or data. I attempt to maintain security and robustness of my 
+Services, but I make no guarantee as to the completeness or reliability of those 
+Services. You are responsible for keeping backups of important data, and you 
+acknowledge that I may be unable to recover your data should my Services 
+experience any disruption.
+
+You acknowledge that as these Services are not intended or designed for 
+enterprise-grade use, quality of Service may be significantly reduced or 
+degraded for usage in excess of this Agreement.
+
+------------------------------------------------------------------------------
+6. Attribution
+You grant me the right to implement on some Services, such as website design, 
+a form of attribution that may display my contact info or website. You may not 
+remove, obscure, or otherwise attempt to hide my attribution. This attribution 
+may take several forms, such as an email, short text description, or an image.
+
+------------------------------------------------------------------------------
+7. Prohibited conduct
+You may not use my Services in a manner or upload content that I determine:
+ - is illegal in the United States or your territory;
+ - violates or infringes on the rights, including intellectual and commercial, 
+   or privacy of myself or others;
+ - instigates or distributes hate or discriminatory speech;
+ - contains viruses, malware, trojan horses, or other harmful software;
+ - interferes or attempts to interfere with the functioning of my Services;
+ - promotes or distributes pornography, obscene content, or other sexual materials;
+ - promotes or engages with unsolicited bulk messages or spam;
+ - promotes, threatens, incites or engages with terrorism or violence;
+ - promotes or engages with web3, cryptocurrency, blockchain, non-fungible tokens, 
+   or other decentralized technologies;
+ - promotes or engages with drugs, tobacco, or alcohol, especially in connection 
+   with use by minors; or,
+ - uses my name, image, or likeness to state or imply endorsement or connection 
+   of my brand for a particular product, service, or organization.
+
+It is prohibited to use any Service in contradiction with this Agreement. It 
+is further prohibited to provide content I share or your users share with you 
+to generative artificial intelligence models such as ChatGPT, Gemini, or Claude. 
+You may not make available any content included (either provided by me or 
+submitted by users) within my Services to any dataset or large language model. 
+You shall not train an artificial intelligence or large language model on content 
+I provide or content that your users provide to you. It is prohibited to make 
+use of crawlers, spiders, robots, or other web scraping technologies to make my 
+content or any content found in my Services available to or for inclusion in any 
+artificial intelligence model. It is prohibited to share personal contact information, 
+for myself or your users, to any third party except where required by law.
+
+It is prohibited to grant others access to modify core files of any of my Services,
+share content I have provided to you with others, share login credentials to my
+Services, or otherwise permit usage of any aspect of my Services that would
+put undue stress on my resources or infrastructure.
+
+------------------------------------------------------------------------------
+8. Severability
+If a court of competent jurisdiction finds any part of this Agreement to be 
+invalid or unenforceable, the remainder of this Agreement shall be construed 
+as if the invalid part never existed.
+
+Sections 2, 7, 8, 9, and 10 shall withstand termination of this Agreement.
+
+------------------------------------------------------------------------------
+9. Payments
+Payments for commercial services may be made using one of the following services: 
+Apple Pay, Zelle, PayPal, cash, check, or ACH/bank transfer with no fee, or credit/
+debit card with an additional fee. You agree that payments are non-refundable 
+except as required by law. Your payment information will be kept private and 
+never shared or sold with any third party.
+
+------------------------------------------------------------------------------
+10. Confidentiality
+To facilitate your use of my Services, I may require confidential information from 
+you, provide confidential information to you, or share confidential information 
+with you from a third-party. You agree to implement all reasonable measures to 
+keep confidential all information that is labeled as such or is included in the 
+list below. I agree to the same. "Keeping confidential" means not sharing any 
+confidential information with anyone, including family members, except where 
+authorized in certain circumstances. This Agreement may be shared only among
+members or stakeholders of a Limited Liability Company or Corporation.
+
+Confidential information includes:
+ - Passwords or account logins
+ - Financial information
+ - Personal information
+ - API keys
+ - Payment terms
+ - Signed contracts
+ - Business or trade secrets
+
+As a condition of using my Services, you acknowledge that I may periodically 
+review and monitor your usage of my Services, and may inspect any content used 
+in the Services, for example, to verify that your website does not contain any 
+prohibited materials. You acknowledge that such content may contain 
+confidential information.
+
+------------------------------------------------------------------------------
+11. Third-party sources
+From time to time, I may incorporate software or content from third parties. 
+Your use of my Services may necessarily be subject to those respective Terms. 
+As necessary to provide my Services, non-confidential information may be shared 
+with those third parties. Any software or content I incorporate from third parties, 
+such as domain name registration or DNS management, is included collectively 
+in my Services.
+
+------------------------------------------------------------------------------
+12. Termination
+At any time, you may terminate this Agreement. Should you choose to do so, you 
+must notify me as soon as possible and you must immediately cease use of all my 
+Services. I, in my sole discretion, and for any reason, including abuse or 
+suspected abuse of this Agreement, may terminate your access to my Services. 
+You acknowledge that I am not liable for any damages or losses that may result 
+from this termination.
+
+If a Service is not accessed within a period of 24 months, your access may be 
+revoked and any of your data associated with it may be deleted without notice. 
+It is your responsibility to maintain backups of your data. You may request 
+deletion of your Source Account or any Service Account at any time.
+
+At any time, and for any reason, I may remove content that I believe to be 
+in violation of this agreement.
+
+------------------------------------------------------------------------------
+13. Disclaimer
+MY SERVICES AND ITS CONTENTS ARE PROVIDED "AS-IS", "AS-AVAILABLE", AND "WITH 
+ALL FAULTS" WITH ABSOLUTELY NO EXPRESS OR IMPLIED WARRANTY OF ANY KIND. THERE 
+IS NO GUARANTEE OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PUPOSE ARISING 
+FROM YOUR USE OF MY SERVICES.
+
+Nothing in this Agreement shall be construed to restrict my right to claim 
+damages for any misuse of my Services, now or at any time in the future.
+
+------------------------------------------------------------------------------
+14. Contact
+If you have questions about this Agreement, please email privacy@isaac.run or 
+text (517) 798-6294.
+
+Questions regarding your Services should be emailed to me at ig@isaac.run.
+
+------------------------------------------------------------------------------
+Notice to residents of Canada, China, the European Union, the United Kingdom, 
+or the states of California, Colorado, Connecticut, Delaware, Indiana, Iowa, 
+Kentucky, Maryland, Massachusetts, Minnesota, Montana, Nebraska, New Hampshire, 
+New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, or 
+other regions with consumer data privacy laws:
+
+Your country or territory generally provides you rights to perform several
+actions regarding your personal data, often including subject access requests, 
+right to correction, right to be forgotten, right to portability, among others. I
+will attempt to honor any such request I receive, but please know that I have no
+obligation to do so. Any such data requests should be sent to privacy@isaac.run.
+
+==============================================================================
+Service-specific agreements
+
+------------------------------------------------------------------------------
+Website design and hosting
+
+You are permitted to allow others to access your website. You may not permit or 
+grant access to others to modify core website files. To a limited extent, you 
+may allow users to upload custom content. You may apply your own terms to this 
+content, but it is also covered by the license listed in Section 2 Paragraph 1. 
+I can not and will not be held liable in any event, including copyright infringement, 
+for any content found on your site. You agree that I may place a lightweight, 
+privacy-preserving package on each page to monitor usage and gather certain 
+analytics, which I may make available to you. You are not permitted to remove 
+this package.
+
+If you implement advertisements in your site, you agree to split ad revenue 
+85/15 with me (you keep 85%, I get 15%).
+
+You should let users know that their data is transferred to the United States. 
+You should include a notice in your privacy policy that some basic analytics 
+are being collected. I do not provide a privacy policy or terms of use; however, 
+I can advise on certain clauses as they apply to technologies used in my Services.
+
+Effective: 2025-06-09
+
+------------------------------------------------------------------------------
+Domain name registration
+
+Usage of domain names is subject to policies and regulations promulgated by the
+Internet Corporation for Assigned Names and Numbers ("ICANN"). If I register a
+domain name on your behalf, I become the sole owner and controller of such domain.
+You may request that the domain be transferred to your name, or to another registrar
+of your choice, but not before 90 days have passed since the first registration
+or most recent transfer. Note that a domain name transfer could mean that you
+lose access to some or all of your Services.
+
+If you elect to have a domain name transferred to your name, you agree that all
+liability rests upon you. You shall be responsible for paying for such domain name,
+keeping up-to-date all ICANN required information, and, should you wish to continue
+receiving access to certain Services, modifying or updating Domain Name System
+records, which process varies by registrar. I am not responsible for any errors
+that occur as a result of a registrant transfer.
+
+Effective: 2025-06-02
+
+------------------------------------------------------------------------------
+Email services
+
+You are allotted a certain amount of email storage, which you are not permitted
+to exceed. Additional storage can be purchased for a set price each month, as
+determined by myself. In your allotted storage, you may create any number of
+mailboxes or folders, and receive as much email as you wish. It is permitted
+to share passwords with others in your organization. Should you choose to share
+access to a mailbox, you must provide me a list of all authorized users. Such
+login details must never be shared or posted publicly.
+
+Note: email is inherently insecure. Reasonable measures have been taken to protect 
+the contents of your email while in transit, but email should not be relied upon
+for business critical communications, and especially not to transmit confidential
+information. If additional security is necessary, consider encrypting your email
+before it is sent, such as with S/MIME or PGP.
+
+Effective: 2025-06-02
+
+==============================================================================
+Agreement Effective: 2025-05-26
+v1.0
