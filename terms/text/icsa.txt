@@ -5,8 +5,8 @@ Isaac's Commercial Services Agreement
 This document is an agreement between:
   Isaac Greene and my affiliates ("I", "me", "my", etc.); and 
   [business], and its members, officers, and agents.
-"You" (or "your", "yours", etc.) refers both to the entity agreeing to this document 
-and the above mentioned organization.
+"You" (or "your", "yours", etc.) refers both to the legal or natural person
+agreeing to this document and the above mentioned organization.
 
 The Isaac's Commercial Services Agreement (the "Agreement") applies to your use 
 of any commercial services (the or my "Services") provided to you by me. You 
@@ -34,15 +34,11 @@ For example, "Website Account" and "VPN Account" are both a "Service Account."
 2. Content
 Some of my Services include the ability to upload, distribute, or modify content. 
 You warrant that you own or have permission to use content you upload using the 
-Services. You may, at your discretion, make use of generative artificial 
-intelligence to produce content for inclusion in my Services. You acknowledge 
-that I have no obligation to include such content. You further acknowledge that 
-such content is in the public domain, and as such, you have no control of 
-ownership over the work. You retain all rights of submitted content, except 
-where otherwise provided. To the extent necessary to provide the Services, you 
-grant me a worldwide, royalty-free, intellectual property license to use your 
-content, for example, to make available to others the contents of your website. 
-You may not submit content using the Services under other terms.
+Services. You retain all rights of submitted content, except where otherwise 
+provided. To the extent necessary to provide the Services, you grant me a 
+worldwide, royalty-free, intellectual property license to use your content, for 
+example, to make available to others the contents of your website. You may not 
+submit content using the Services under other terms.
 
 Without proper authorization, it is prohibited to use my work or content in any 
 circumstance. For some Services, such as website hosting or design, I may provide 
@@ -101,19 +97,13 @@ the Services.
 
 ------------------------------------------------------------------------------
 4. Licensing
-You are granted a commercial, worldwide, non-exclusive, non-sublicensable, 
-non-transferable, royalty-free, terminable license to use and access my Services.
-Re-selling or re-distributing my Services is not granted under this license.
+You are granted a commercial, worldwide, non-exclusive, non-transferable, royalty-
+free, terminable license to use and access my Services.
 
 You acknowledge that my Services and the designs embodied therein are protected 
 by copyright, other intellectual property rights and industrial property rights 
 and by international treaties. They are and remain at all times the intellectual 
 property of myself.
-
-You may not grant others access to my Services, except as otherwise provided. 
-Deriving gain, except as permitted by law, from my Services or its contents 
-without prior written consent is prohibited. Hotlinking to my Services or otherwise 
-accessing Service resources without prior permission is strictly prohibited.
 
 ------------------------------------------------------------------------------
 5. Availability
@@ -154,26 +144,12 @@ You may not use my Services in a manner or upload content that I determine:
  - contains viruses, malware, trojan horses, or other harmful software;
  - interferes or attempts to interfere with the functioning of my Services;
  - promotes or distributes pornography, obscene content, or other sexual materials;
- - promotes or engages with unsolicited bulk messages or spam;
+ - promotes or engages with bulk messages or spam;
  - promotes, threatens, incites or engages with terrorism or violence;
- - promotes or engages with web3, cryptocurrency, blockchain, non-fungible tokens, 
-   or other decentralized technologies;
  - promotes or engages with drugs, tobacco, or alcohol, especially in connection 
    with use by minors; or,
  - uses my name, image, or likeness to state or imply endorsement or connection 
    of my brand for a particular product, service, or organization.
-
-It is prohibited to use any Service in contradiction with this Agreement. It 
-is further prohibited to provide content I share or your users share with you 
-to generative artificial intelligence models such as ChatGPT, Gemini, or Claude. 
-You may not make available any content included (either provided by me or 
-submitted by users) within my Services to any dataset or large language model. 
-You shall not train an artificial intelligence or large language model on content 
-I provide or content that your users provide to you. It is prohibited to make 
-use of crawlers, spiders, robots, or other web scraping technologies to make my 
-content or any content found in my Services available to or for inclusion in any 
-artificial intelligence model. It is prohibited to share personal contact information, 
-for myself or your users, to any third party except where required by law.
 
 It is prohibited to grant others access to modify core files of any of my Services,
 share content I have provided to you with others, share login credentials to my
@@ -200,12 +176,12 @@ never shared or sold with any third party.
 10. Confidentiality
 To facilitate your use of my Services, I may require confidential information from 
 you, provide confidential information to you, or share confidential information 
-with you from a third-party. You agree to implement all reasonable measures to 
+with you from a third-party. You and I agree to implement all reasonable measures to 
 keep confidential all information that is labeled as such or is included in the 
-list below. I agree to the same. "Keeping confidential" means not sharing any 
-confidential information with anyone, including family members, except where 
-authorized in certain circumstances. This Agreement may be shared only among
-members or stakeholders of a Limited Liability Company or Corporation.
+list below. "Keeping confidential" means not sharing any confidential information 
+with anyone, including family members, except where authorized in certain 
+circumstances. This Agreement may be shared only among members or stakeholders 
+of a Limited Liability Company or Partnership or Corporation.
 
 Confidential information includes:
  - Passwords or account logins
@@ -239,21 +215,18 @@ Services. I, in my sole discretion, and for any reason, including abuse or
 suspected abuse of this Agreement, may terminate your access to my Services. 
 You acknowledge that I am not liable for any damages or losses that may result 
 from this termination.
-
-If a Service is not accessed within a period of 24 months, your access may be 
-revoked and any of your data associated with it may be deleted without notice. 
+ 
 It is your responsibility to maintain backups of your data. You may request 
-deletion of your Source Account or any Service Account at any time.
-
-At any time, and for any reason, I may remove content that I believe to be 
-in violation of this agreement.
+deletion of your Source Account or any Service Account at any time. At any time, 
+and for any reason, I may remove content that I believe to be in violation 
+of this agreement.
 
 ------------------------------------------------------------------------------
 13. Disclaimer
 MY SERVICES AND ITS CONTENTS ARE PROVIDED "AS-IS", "AS-AVAILABLE", AND "WITH 
 ALL FAULTS" WITH ABSOLUTELY NO EXPRESS OR IMPLIED WARRANTY OF ANY KIND. THERE 
 IS NO GUARANTEE OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PUPOSE ARISING 
-FROM YOUR USE OF MY SERVICES.
+FROM YOUR USE OF MY SERVICES, EXCEPT WHERE OTHERWISE PROVIDED.
 
 Nothing in this Agreement shall be construed to restrict my right to claim 
 damages for any misuse of my Services, now or at any time in the future.
@@ -261,7 +234,7 @@ damages for any misuse of my Services, now or at any time in the future.
 ------------------------------------------------------------------------------
 14. Contact
 If you have questions about this Agreement, please email privacy@isaac.run or 
-text (517) 798-6294.
+text +1 (517) 798-6294.
 
 Questions regarding your Services should be emailed to me at ig@isaac.run.
 
@@ -294,15 +267,18 @@ privacy-preserving package on each page to monitor usage and gather certain
 analytics, which I may make available to you. You are not permitted to remove 
 this package.
 
-If you implement advertisements in your site, you agree to split ad revenue 
-85/15 with me (you keep 85%, I get 15%).
+Should you choose to implement advertisements in your website, you agree to provide
+me with, or agree that I may withhold, 15 percent of the total advertisement revenue.
+This paragraph applies to advertisements served through an ad network such as 
+Google AdSense, and does not apply to sponsorships, promoted content, or branded
+materials. 
 
 You should let users know that their data is transferred to the United States. 
 You should include a notice in your privacy policy that some basic analytics 
 are being collected. I do not provide a privacy policy or terms of use; however, 
 I can advise on certain clauses as they apply to technologies used in my Services.
 
-Effective: 2025-05-27
+Effective: 2025-07-25
 
 ------------------------------------------------------------------------------
 Domain name registration
@@ -343,6 +319,20 @@ before it is sent, such as with S/MIME or PGP.
 
 Effective: 2025-06-02
 
+------------------------------------------------------------------------------
+Block storage
+
+If you require additional storage beyond what is included with your Service,
+you may purchase additional blocks of storage. Blocks of 100GB can be purchased
+for $2.00/month. After 1TB, blocks of 100GB can be purchased for $1.50/month. After
+2TB, blocks of 100GB can be purchased for $1.20/month. Storage amounts between 
+2TB and 8TB carry an additional monthly fee of $7.00. Block storage may not
+exceed 8TB.
+
+* 1GB = one billion bytes.
+
+Effective: 2025-07-25
+
 ==============================================================================
-Agreement Effective: 2025-05-26
-v1.0
+Agreement Effective: 2025-07-25
+v1.1

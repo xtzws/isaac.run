@@ -63,26 +63,6 @@ This section 2 shall withstand termination of this Agreement.
 
 ------------------------------------------------------------------------------
 3. Limitation of liability
-I will defend you against any third party claim brought against you, to the
-extent that such claim is based on an allegation that a discounted Service,
-when used as authorized under this Agreement, infringes a United States or
-European Union patent or registered copyright, and I will indemnify you against
-any damages and costs (including reasonable legal fees) awarded by a court of
-competent jurisdiction attributable to such a claim or agreed to settlement by
-myself. If any portion of a discounted Service becomes or I believe is likely
-to become the subject of an infringement claim, I may: a) work to procure the
-right for your continued use of the discounted Service; b) modify the discounted
-Service so it is non-infringing; or c) terminate the discounted Service and
-refund your pre-paid costs that would have otherwise covered the remainder of
-your use, and upon termination you agree to immediately cease use of that discounted
-Service. I have no obligation under this paragraph with respect to an infringement
-claim that is based upon: a) any use of a discounted Service in violation of
-this Agreement; b) any use of a discounted Service in combination with another
-product or service not provided by me; or c) any modification of a discounted
-Service by any person other than myself or my authorized agents. This paragraph
-outlines my sole and exclusive obligations and your sole and exclusive remedies
-for any claims of infringement of intellectual property rights.
-
 I make no guarantees for the Services I provide. You agree to indemnify and
 hold harmless myself and any third parties I may contract with to provide the
 Services to you from any demands, loss, liability, claims or expenses (including
@@ -301,8 +281,7 @@ website design will also be a free service. If you implement advertisements in
 your site, you agree to split ad revenue 70/30 with me (you keep 70%, I get 30%).
 
 Some additional website products, such as domain names or email services, may be
-available for additional costs. If payment is required for domain names, they
-will be sold at or below cost, plus additional fees and taxes.
+available for additional costs.
 
 Your free website may not be used as primary means for income. You may also not
 charge access for services you provide that use any of my free Services, for
@@ -335,5 +314,8 @@ The original designs remain copyrighted by its owner. Should my vectorized desig
 contain non-free work, you are responsible for obtaining the proper license
 to use the work.
 
+Vectorized files hosted online will be removed fourteen days after date
+of initial publication.
+
 ==============================================================================
-Agreement Effective: 2025-05-21
+Agreement Effective: 2025-07-25

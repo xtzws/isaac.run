@@ -41,13 +41,13 @@ body {
 h1 {
   text-decoration-line: underline;
   text-decoration-color: var(--isaac-blue);
-  text-decoration-style: wavy;
+  text-decoration-style: solid;
 }
 
 h2 {
   text-decoration-line: underline;
   text-decoration-color: var(--isaac-red);
-  text-decoration-style: wavy;
+  text-decoration-style: solid;
 }
 
 h3 {
