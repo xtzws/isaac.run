@@ -116,12 +116,10 @@ You may not represent to users that any facet of your use which is dependent on
 my Services has any guarantee of availability. You understand that I reserve the 
 right to modify, restrict, or discontinue any aspect of the Services at any time.
 
-As a condition of receiving my Services, you acknowledge that I keep no backups 
-of your files or data. I attempt to maintain security and robustness of my 
-Services, but I make no guarantee as to the completeness or reliability of those 
-Services. You are responsible for keeping backups of important data, and you 
-acknowledge that I may be unable to recover your data should my Services 
-experience any disruption.
+I attempt to maintain security and robustness of my Services, but I make no 
+guarantee as to the completeness or reliability of those Services. You are 
+responsible for keeping backups of important data, and you acknowledge that I 
+may be unable to recover your data should my Services experience any disruption.
 
 You acknowledge that as these Services are not intended or designed for 
 enterprise-grade use, quality of Service may be significantly reduced or 
