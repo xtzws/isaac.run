@@ -11,10 +11,10 @@ agreeing to this document and the above mentioned organization.
 The Isaac's Commercial Services Agreement (the "Agreement") applies to your use 
 of any commercial services (the or my "Services") provided to you by me. You 
 acknowledge and agree that your use of the Services is governed by the terms of 
-this Agreement. You warrant that you are a) acting as an individual or as an 
-authorized agent on behalf of an organization; b) entering into this Agreement 
-of your own free will; and c) truthfully representing your intended usage of my 
-Services. This Agreement may change at any time with 30 days notice.
+this Agreement. You warrant that you are a) acting as an authorized agent on 
+behalf of an organization; b) entering into this Agreement of your own free will; 
+and c) truthfully representing your intended usage of my Services. This Agreement 
+may change at any time with 30 days notice.
 
 If you do not agree to this Agreement, you may not use the Services. If you 
 reject this Agreement after previously agreeing to it, you must immediately 
@@ -88,9 +88,10 @@ Services to you from any demands, loss, liability, claims or expenses (including
 attorneys' fees), made against me by any third party due to or arising out of 
 or in connection with your use of the Services.
 
-I have absolutely no liability in any event for any direct, indirect, inconsequential, 
+My maximum liability in any event for any direct, indirect, inconsequential, 
 exemplary, incidental or punitive damages, including lost profits, even if I 
-have been advised of the possibility of such damages. To the maximum extent 
+have been advised of the possibility of such damages, is a refund of your incurred 
+costs for the previous six months from the date of your claim. To the maximum extent 
 permitted by law, these limitations and exclusions apply to anything or any 
 claims related to this Agreement, the Services, or the software related to 
 the Services.
@@ -317,20 +318,14 @@ before it is sent, such as with S/MIME or PGP.
 
 Effective: 2025-06-02
 
-------------------------------------------------------------------------------
-Block storage
+==============================================================================
+Notice of Canonicalization
 
-If you require additional storage beyond what is included with your Service,
-you may purchase additional blocks of storage. Blocks of 100GB can be purchased
-for $2.00/month. After 1TB, blocks of 100GB can be purchased for $1.50/month. After
-2TB, blocks of 100GB can be purchased for $1.20/month. Storage amounts between 
-2TB and 8TB carry an additional monthly fee of $7.00. Block storage may not
-exceed 8TB.
-
-* 1GB = one billion bytes.
-
-Effective: 2025-07-25
+There is potential for this version of the Agreement to be out-of-date. The most 
+recent version can always be found at [https://www.isaac.run/terms/icsa/]
+Best efforts will be made to keep all copies of this Agreement in parity, but 
+in the event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
-Agreement Effective: 2025-07-25
-v1.1
+Agreement Effective: 2025-07-31
+v1.2

@@ -318,4 +318,12 @@ Vectorized files hosted online will be removed fourteen days after date
 of initial publication.
 
 ==============================================================================
+Notice of Canonicalization
+
+There is potential for this version of the Agreement to be out-of-date. The most 
+recent version can always be found at [https://www.isaac.run/terms/icsa/]
+Best efforts will be made to keep all copies of this Agreement in parity, but 
+in the event there is any discrepancy, the most recent version shall prevail.
+
+==============================================================================
 Agreement Effective: 2025-07-25
