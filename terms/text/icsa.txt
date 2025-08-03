@@ -90,8 +90,8 @@ or in connection with your use of the Services.
 
 My maximum liability in any event for any direct, indirect, inconsequential, 
 exemplary, incidental or punitive damages, including lost profits, even if I 
-have been advised of the possibility of such damages, is a refund of your incurred 
-costs for the previous six months from the date of your claim. To the maximum extent 
+have been advised of the possibility of such damages, is a refund of the monies you 
+paid me in the previous six months from the date of your claim. To the maximum extent 
 permitted by law, these limitations and exclusions apply to anything or any 
 claims related to this Agreement, the Services, or the software related to 
 the Services.
@@ -209,11 +209,11 @@ in my Services.
 ------------------------------------------------------------------------------
 12. Termination
 At any time, you may terminate this Agreement. Should you choose to do so, you 
-must notify me as soon as possible and you must immediately cease use of all my 
-Services. I, in my sole discretion, and for any reason, including abuse or 
-suspected abuse of this Agreement, may terminate your access to my Services. 
-You acknowledge that I am not liable for any damages or losses that may result 
-from this termination.
+must notify me as soon as possible, you must immediately cease use of all my Services, 
+and you must destroy any copies of proprietary software I have provided to you. 
+I, in my sole discretion, and for any reason, including abuse or suspected abuse 
+of this Agreement, may terminate your access to my Services. You acknowledge that 
+I am not liable for any damages or losses that may result from this termination.
  
 It is your responsibility to maintain backups of your data. You may request 
 deletion of your Source Account or any Service Account at any time. At any time, 
@@ -327,5 +327,5 @@ Best efforts will be made to keep all copies of this Agreement in parity, but
 in the event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
-Agreement Effective: 2025-07-31
-v1.2
+Agreement Effective: 2025-08-02
+v1.2.1
