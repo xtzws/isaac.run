@@ -1,7 +1,6 @@
 Isaac's Free or Discounted Services Agreement
 
 ==============================================================================
-
 1. Application
 This document is an agreement between Isaac Greene ("I", "me", "my", etc.) and
 you. The Isaac's Free or Discounted Services Agreement (the "Agreement")
@@ -211,12 +210,13 @@ in my Services.
 
 ------------------------------------------------------------------------------
 12. Termination
-At any time, you may terminate this Agreement. Should you choose to do so, you
-must notify me as soon as possible and you must immediately cease use of all my
-Services. I, in my sole discretion, and for any reason, including abuse or
-suspected abuse of this Agreement, may terminate your access to my Services.
-You acknowledge that I am not liable for any damages or losses that may result
-from this termination.
+At any time, you may terminate this Agreement by notifying me of your intent to 
+do so by email. Upon termination of this Agreement for any reason, you must 
+immediately cease use of all my Services and you must destroy any copies of 
+proprietary software I have provided to you. I, in my sole discretion, and for 
+any reason, including abuse or suspected abuse of this Agreement, may terminate 
+your access to my Services. You acknowledge that I am not liable for any damages 
+or losses that may result from this termination.
 
 If you do not use a Service for a period of six months, your access may be
 revoked and any of your data associated with it may be deleted without notice.
@@ -321,9 +321,9 @@ of initial publication.
 Notice of Canonicalization
 
 There is potential for this version of the Agreement to be out-of-date. The most 
-recent version can always be found at [https://www.isaac.run/terms/icsa/]
+recent version can always be found at [https://www.isaac.run/terms/ifdsa/]
 Best efforts will be made to keep all copies of this Agreement in parity, but 
 in the event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
-Agreement Effective: 2025-07-25
+Agreement Effective: 2025-08-06

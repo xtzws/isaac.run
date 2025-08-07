@@ -91,9 +91,9 @@ or in connection with your use of the Services.
 My maximum liability in any event for any direct, indirect, inconsequential, 
 exemplary, incidental or punitive damages, including lost profits, even if I 
 have been advised of the possibility of such damages, is a refund of the monies you 
-paid me in the previous six months from the date of your claim. To the maximum extent 
-permitted by law, these limitations and exclusions apply to anything or any 
-claims related to this Agreement, the Services, or the software related to 
+paid me in the previous six months from the date of your claim. To the maximum 
+extent permitted by law, these limitations and exclusions apply to anything or 
+any claims related to this Agreement, the Services, or the software related to 
 the Services.
 
 ------------------------------------------------------------------------------
@@ -158,8 +158,8 @@ put undue stress on my resources or infrastructure.
 ------------------------------------------------------------------------------
 8. Severability
 If a court of competent jurisdiction finds any part of this Agreement to be 
-invalid or unenforceable, the remainder of this Agreement shall be construed 
-as if the invalid part never existed.
+invalid or unenforceable, the remainder of this Agreement shall be modified to
+the minimum extent possible as to be valid.
 
 Sections 2, 7, 8, 9, and 10 shall withstand termination of this Agreement.
 
@@ -175,8 +175,8 @@ never shared or sold with any third party.
 10. Confidentiality
 To facilitate your use of my Services, I may require confidential information from 
 you, provide confidential information to you, or share confidential information 
-with you from a third-party. You and I agree to implement all reasonable measures to 
-keep confidential all information that is labeled as such or is included in the 
+with you from a third-party. You and I agree to implement all reasonable measures
+to keep confidential all information that is labeled as such or is included in the 
 list below. "Keeping confidential" means not sharing any confidential information 
 with anyone, including family members, except where authorized in certain 
 circumstances. This Agreement may be shared only among members or stakeholders 
@@ -208,12 +208,13 @@ in my Services.
 
 ------------------------------------------------------------------------------
 12. Termination
-At any time, you may terminate this Agreement. Should you choose to do so, you 
-must notify me as soon as possible, you must immediately cease use of all my Services, 
-and you must destroy any copies of proprietary software I have provided to you. 
-I, in my sole discretion, and for any reason, including abuse or suspected abuse 
-of this Agreement, may terminate your access to my Services. You acknowledge that 
-I am not liable for any damages or losses that may result from this termination.
+At any time, you may terminate this Agreement by notifying me of your intent to 
+do so by email. Upon termination of this Agreement for any reason, you must 
+immediately cease use of all my Services and you must destroy any copies of 
+proprietary software I have provided to you. I, in my sole discretion, and for 
+any reason, including abuse or suspected abuse of this Agreement, may terminate 
+your access to my Services. You acknowledge that I am not liable for any damages 
+or losses that may result from this termination.
  
 It is your responsibility to maintain backups of your data. You may request 
 deletion of your Source Account or any Service Account at any time. At any time, 
@@ -327,5 +328,5 @@ Best efforts will be made to keep all copies of this Agreement in parity, but
 in the event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
-Agreement Effective: 2025-08-02
-v1.2.1
+Agreement Effective: 2025-08-06
+v1.2.2

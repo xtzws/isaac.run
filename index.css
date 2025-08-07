@@ -3,7 +3,7 @@
   font-weight: 300 900;
   font-style: normal;
   font-display: swap;
-  src: url("/Satoshi-Variable.woff2") format("woff2");
+  src: url("https://cdn.isaac.run/brand/fonts/Satoshi-Variable.woff2") format("woff2");
 }
 
 :root {
