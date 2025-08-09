@@ -62,7 +62,6 @@ table {
   border-collapse: separate;
   border-radius: 10px;
   border-spacing: 0;
-  overflow: hidden;
 }
 
 td, th {
@@ -74,6 +73,17 @@ td, th {
 td:first-child {font-feature-settings: "tnum" 1;}
 tr:last-child th {border-bottom: 0px;}
 tr:hover {background-color: var(--logy-lightblue);}
+
+.btm-row td {
+  /* https://stackoverflow.com/a/24268998 "The sorcery of CSS" */
+  border-bottom: none;
+}
+
+.btm-left {border-radius: 0 0 0 9px;}
+.btm-right {border-radius: 0 0 9px 0;}
+.top-left {border-radius: 9px 0 0 0;}
+.top-right {border-radius: 0 9px 0 0;}
+.table {overflow-x: auto;}
 
 p {
   font-weight: 450;
@@ -105,7 +115,9 @@ a {
 
 caption {
   margin-top: .5lh;
+  margin-left: 5px;
   caption-side: bottom;
+  text-align: left;
 }
 
 mark {
@@ -128,7 +140,7 @@ hr {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  gap: 4px
+  gap: 4px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -144,4 +156,7 @@ hr {
   h2 {text-decoration-color: var(--evil-ferrariblue);}
   ::selection {color: var(--evil-blue);}
   mark {color: var(--evil-blue);}
+  tr:hover {color: var(--evil-blue);}
+  table {border: 1px solid var(--evil-ferrariblue);}
+  td,th {border-bottom: 1px solid var(--evil-ferrariblue);}
 }
