@@ -143,7 +143,7 @@ You may not use my Services in a manner or upload content that I determine:
  - contains viruses, malware, trojan horses, or other harmful software;
  - interferes or attempts to interfere with the functioning of my Services;
  - promotes or distributes pornography, obscene content, or other sexual materials;
- - promotes or engages with bulk messages or spam;
+ - promotes or engages with unsolicited bulk messages or spam;
  - promotes, threatens, incites or engages with terrorism or violence;
  - promotes or engages with drugs, tobacco, or alcohol, especially in connection 
    with use by minors; or,
