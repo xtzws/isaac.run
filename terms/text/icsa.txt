@@ -3,7 +3,7 @@ Isaac's Commercial Services Agreement
 ==============================================================================
 1. Application
 This document is an agreement between:
-  Isaac Greene and my affiliates ("I", "me", "my", etc.); and 
+  Isaac Greene d/b/a Isaacal Media and my affiliates ("I", "me", "my", etc.); and 
   [business], and its members, officers, and agents.
 "You" (or "your", "yours", etc.) refers both to the legal or natural person
 agreeing to this document and the above mentioned organization.
@@ -16,9 +16,10 @@ behalf of an organization; b) entering into this Agreement of your own free will
 and c) truthfully representing your intended usage of my Services. This Agreement 
 may change at any time with 30 days notice.
 
-If you do not agree to this Agreement, you may not use the Services. If you 
-reject this Agreement after previously agreeing to it, you must immediately 
-cease use of the Services.
+To use and access my Services, you must accept this Agreement as it is presented 
+to you without modifications. Your continued use of my Services indicates your 
+acceptance of the most recent version of this Agreement. If you do not agree to 
+this Agreement, you must immediately cease use of my Services.
 
 Service-specific terms are attached at the end of this Agreement. Where necessary, 
 this Agreement may be modified to match your needs. Should this occur, an Addendum 
@@ -158,8 +159,9 @@ put undue stress on my resources or infrastructure.
 ------------------------------------------------------------------------------
 8. Severability
 If a court of competent jurisdiction finds any part of this Agreement to be 
-invalid or unenforceable, the remainder of this Agreement shall be modified to
-the minimum extent possible as to be valid.
+invalid or unenforceable, the remainder of this Agreement shall be automatically 
+modified to the minimum extent possible as to be valid. My failure to enforce any 
+part of this Agreement does not constitute a waiver of that part.
 
 Sections 2, 7, 8, 9, and 10 shall withstand termination of this Agreement.
 
@@ -199,12 +201,15 @@ confidential information.
 
 ------------------------------------------------------------------------------
 11. Third-party sources
-From time to time, I may incorporate software or content from third parties. 
-Your use of my Services may necessarily be subject to those respective Terms. 
-As necessary to provide my Services, non-confidential information may be shared 
-with those third parties. Any software or content I incorporate from third parties, 
-such as domain name registration or DNS management, is included collectively 
-in my Services.
+From time to time to provide my Services, I may incorporate software or content 
+from third party sources. To facilitate your use of my Services, I may share your 
+information, such as name and email, with these third parties. Any such software 
+or content I incorporate is included in my Services. If you wish to provide alternate 
+information to third parties, you must notify me of your intent to do so and provide 
+me with such information or details on how to obtain such information. I reserve 
+the right to disregard alternate information in circumstances where I believe it 
+is necessary to provide default information or where I believe you may not retain 
+access to alternate information.
 
 ------------------------------------------------------------------------------
 12. Termination
@@ -328,5 +333,6 @@ Best efforts will be made to keep all copies of this Agreement in parity, but
 in the event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
-Agreement Effective: 2025-08-06
-v1.2.2
+Agreement Effective: 2025-08-11
+v1.2.3
+(c) 2025 Isaacal Media
