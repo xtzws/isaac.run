@@ -1,0 +1,60 @@
+Esoteric Common License
+Version 1.0 - 2025-09-15
+
+Prepreamble
+As you may have noticed, I'm a fan of writing overly verbose legal documents.
+Read the ICSA as an example, or just check out how many of them I've written.
+This one is also significantly longer than it needs to be, simply because that's
+how I want it.
+
+Preamble
+For all the copyright nerds out there, this is technically a «DEDICATION» or a
+«WAIVER» but I think «LICENSE» sounds and looks better, especially in the URL,
+and license is a little bit clearer at first glance for what this talking about.
+
+I was inspired by Kate Morley after blatantly stealing her CSS for styling forms
+which she makes available under the CC0. I did some introspection and realized
+that I expected all software to be free as in freedom and free as in beer, and it
+would be unfair if I didn't make my work available also. Hence why I'm rambling
+to you now.
+
+You may be wondering, if you know of such things, why I don't just mark it with
+Creative Commons Zero and be done with it. The reason is that I wanted my work
+to actually be in the public domain, at least in my country, and not very nearly
+public domain. For many years, I've made my work available to the no one who wants
+to use it. My first license was a restricted source available, future apps were
+under a more permissive license like the GNU GPL, WTFPL, and the SQLite Blessing.
+Creative works have long been licensed with various Creative Commons licenses, like
+CC BY-NC-ND for some English work, up to CC-BY for my iNaturalist contributions.
+I am entering my next phase of: who tf cares. My thinking for reserving some
+rights is that I might be able to make some money off of it in the future. But
+that is not going to happen. So I might as well make it available to the most
+people. Now onto the dedication.
+
+Amble
+To any artistic or literary work or document or software or other piece of
+writing (collectively, "work") to which this license or a representation or a
+reference or a notice of this license has been applied, then this work is dedicated
+to the public domain in the United States.
+
+If you are in one of the other countries and:
+
+  you are in an area that recognizes a foreigner's right to dedicate their work to
+  the public domain in the manner in which I have just done so for United States readers:
+    then this work is dedicated to the public domain
+
+  or you are in an area that does not recognize the public domain or does not allow
+  a foreigner to place their work in the public domain in the manner in which I have
+  done so above for United States readers or does not recognize a work that has been
+  placed into the public domain by a foreigner in their home country if that work
+  would otherwise be protected by your home country's copyright laws:
+    then this work is marked Creative Commons Zero
+
+If, in the rare circumstance that none of the above conditions apply to you,
+then you have no permission to use my work in any capacity and I will sue you
+for every penny you're worth.
+
+Postamble
+This could have been made much shorter by simply writing «This work is dedicated
+to the public domain the United States and marked CC0 elsewhere.» but they say
+brevity is the soul of wit, and this document is not supposed to be funny. Good day.
