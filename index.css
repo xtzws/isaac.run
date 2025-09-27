@@ -12,11 +12,6 @@
   --isaac-red: #C52947;
   --minimal-background: antiqueWhite;
   --lec-brown: rgb(81, 52, 36);
-
-  --evil-blue: #011222;
-  --evil-lightblue: #97C9D7;
-  --evil-red: #9D1735;
-  --evil-ferrariblue: #85C9FF;
 }
 
 ::selection {
@@ -86,12 +81,11 @@ tr:hover {background-color: var(--logy-lightblue);}
 .table {overflow-x: auto;}
 
 p {
-  font-weight: 450;
   line-height: 1.5;
   margin-block: 1lh;
 }
 
-li {
+li, p, blockquote {
   font-weight: 450;
 }
 
@@ -141,22 +135,4 @@ hr {
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 4px;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    background-color: var(--evil-blue);
-    color: var(--evil-lightblue);
-  }
-  hr {
-    border: 1px solid var(--evil-lightblue);
-  }
-  a {color: var(--logy-lightblue);}
-  h1,h3 {text-decoration-color: var(--evil-red);}
-  h2 {text-decoration-color: var(--evil-ferrariblue);}
-  ::selection {color: var(--evil-blue);}
-  mark {color: var(--evil-blue);}
-  tr:hover {color: var(--evil-blue);}
-  table {border: 1px solid var(--evil-ferrariblue);}
-  td,th {border-bottom: 1px solid var(--evil-ferrariblue);}
 }
