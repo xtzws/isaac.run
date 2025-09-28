@@ -1,10 +1,37 @@
 @font-face {
-  font-family: "Satoshi";
-  font-weight: 300 900;
+  font-family: "TeX Gyre Pagella";
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
-  src: url("https://cdn.isaac.run/brand/fonts/Satoshi-Variable.woff2") format("woff2");
+  src: url("https://cdn.isaac.run/brand/carattere/TeXGyrePagella-Regular.woff2") format("woff2");
 }
+
+@font-face {
+  font-family: "TeX Gyre Pagella";
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.isaac.run/brand/carattere/TeXGyrePagella-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "TeX Gyre Pagella";
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://cdn.isaac.run/brand/carattere/TeXGyrePagella-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "TeX Gyre Pagella";
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://cdn.isaac.run/brand/carattere/TeXGyrePagella-BoldItalic.woff2") format("woff2");
+}
+/* Fonts available under the GUST Font License <https://www.gust.org.pl/projects/e-foundry/licenses/GUST-FONT-LICENSE.txt/view>
+   For the purposes of the LaTeX Project Public License, these fonts are a "Compiled Work" based on the original Work of the
+   TeX Gyre maintainers and contributors. The woff2 files have been built from the source Spline Font Database files. */
 
 :root {
   --isaac-blue: #0E4385;
@@ -19,9 +46,8 @@
 }
 
 html {
-  font-family: "Satoshi", "Olympic Sans", "Arial", sans-serif;
+  font-family: "TeX Gyre Pagella", "Palatino", "Times New Roman", serif;
   font-size: 1.05em;
-  font-feature-settings: "ss02" 1, "ss03" 1;
   text-wrap: pretty;
   background-color: var(--minimal-background);
   color: var(--lec-brown);
@@ -85,12 +111,12 @@ p {
   margin-block: 1lh;
 }
 
-li, p, blockquote {
-  font-weight: 450;
-}
-
 a {
   color: var(--isaac-red);
+}
+
+li {
+  line-height: 1.5;
 }
 
 .clref {text-align: center;}
@@ -103,7 +129,6 @@ a {
   margin-block-end: -1lh;
 }
 .clmain {
-  font-weight: 450;
   margin-block: 1lh;
 }
 
