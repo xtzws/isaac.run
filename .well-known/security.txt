@@ -1,20 +1,36 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 # Security.txt for isaac.run
 
 # If you notice any errors or vulnerabilities with the site please let me know immediately!
-Contact: mailto:ig@isaac.run
 
-Canonical: https://www.isaac.run/.well-known/security.txt
+# Primary security address
+Contact: mailto:research@10161997.xyz
+Encryption: https://09011994.xyz/.well-known/public.gpg
+
+# Backup security address
+Contact: mailto:ig@isaac.run
 Encryption: https://www.isaac.run/.well-known/public.gpg
+
+# This security.txt signed with primary address
+Canonical: https://www.isaac.run/.well-known/security.txt
 Preferred-Languages: en
 
-Expires: 2025-09-15T00:00:00.000Z
+Expires: 2026-03-15T00:00:00.000Z
 -----BEGIN PGP SIGNATURE-----
 
-iIMEARYKACsWIQT9yrsJWYjmbEUcvSETTT3J6fzITwUCZ9PfIw0caWdAaXNhYWMu
-cnVuAAoJEBNNPcnp/MhP7CYBAPHUfs4K6pFr8RF5xQK9ToMwlHG70h54jjB7oDo7
-BB4+AQDMbNF6GgsAMjzl/uhGNVIl4dt0Lu0F3/JBtn4xfc+7Bw==
-=6dsj
+iQIzBAEBCAAdFiEEy0bF7UhKbpLOa68IP5YPe+qvir4FAmjd/BUACgkQP5YPe+qv
+ir7mvhAA09+OWnExJT9vVveOyEIZmh60FfiOth5zutQ1FIgrTju1fGRX31YcD278
+CGHfIh5AV92p9WwC4jW4yjkI1DaRUmyXIF7dExk50lWUyXzLvn9/8OPerrgg7eEF
+OcBm28xOcsJX+ropssKG+RtDRHEdNe8dBJO/wVNH2E3MqCZ7AroRWuLgEdYXRcSk
+iJtBjEiRe5vOGbmM+RsQhLsH3W0kJnlt1X6KoKpyDN5uTcRScGXxbbUmi9A4xBnk
+fHG55FvK0B82cD3IOTHJqWG0gbqvwM2IvDxriEOxwTYV3KwX2RQzez4vAtrlZiIK
+jaz2pTro+4+zSoRyrA+VZIuVTQUeuVnbtHUBbiH86BfPRVl+vTfcPEsq3l2JmqU+
+ycWpVGm7VQFNR0JxiGarkG0w1M4RqQqQ+ebSTs1A1c07CGzDSgZiKDsoRPo1F5re
+f7UGDQY3EC5Y9nv3YmAZD0JW10sRap1sEkM5sD1fBcFTqDi3FE4s7Iu3m/sZNqS2
+c16/JCooZJnd6NyCx98mmPVwOSbo56TQLTJRbvv2KGOlVtejBaK1hw08xQMinDla
+tmYSL42crSthrp6f7YJVfgZtBWbV3wls3R4GAFeU+hQgJ21ZjhUIc/meXcwNpPET
++Wu11/P603SNKCUUovLUHRvA6z0qeYIPZGLO1cx6odCoBwNrlm4=
+=ww6c
 -----END PGP SIGNATURE-----
