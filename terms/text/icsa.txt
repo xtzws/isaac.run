@@ -11,9 +11,10 @@ This document is an agreement between:
 The Isaac's Commercial Services Agreement (the "Agreement") applies to your use
 of any commercial services (the or my "Services") provided to you by me. You
 acknowledge and agree that your use of the Services is governed by the terms of
-this Agreement. You warrant that you are a) acting as an authorized agent on
-behalf of an organization; b) entering into this Agreement of your own free will;
-and c) truthfully representing your intended usage of my Services. This Agreement
+this Agreement. If the entity reading this document is a natural person (for this
+sentence, "you" or "your"), you warrant that you are a) acting as an authorized agent
+on behalf of an organization; b) entering into this Agreement of your own free will;
+and c) truthfully representing the intended usage of my Services. This Agreement
 may change at any time with 30 days notice.
 
 To use and access my Services, you must accept this Agreement as it is presented
@@ -86,8 +87,8 @@ for any claims of infringement of intellectual property rights.
 I make no guarantees for the Services I provide. You agree to indemnify and
 hold harmless myself and any third parties I may contract with to provide the
 Services to you from any demands, loss, liability, claims or expenses (including
-attorneys' fees), made against me by any third party due to or arising out of
-or in connection with your use of the Services.
+legal fees), made against me by any third party due to or arising out of or in
+connection with your use of the Services, except where provided above.
 
 My maximum liability in any event for any direct, indirect, inconsequential,
 exemplary, incidental or punitive damages, including lost profits, even if I
@@ -181,8 +182,7 @@ with you from a third-party. You and I agree to implement all reasonable measure
 to keep confidential all information that is labeled as such or is included in the
 list below. "Keeping confidential" means not sharing any confidential information
 with anyone, including family members, except where authorized in certain
-circumstances. This Agreement may be shared only among members or stakeholders
-of a Limited Liability Company or Partnership or Corporation.
+circumstances.
 
 Confidential information includes:
  - Passwords or account logins
@@ -238,8 +238,8 @@ damages for any misuse of my Services, now or at any time in the future.
 
 ------------------------------------------------------------------------------
 14. Contact
-If you have questions about this Agreement, please email privacy@isaac.run or
-text +1 (517) 798-6294.
+If you have questions about this Agreement, please email legal@ig7.us or
+text/call +1 (517) 798-6294.
 
 Questions regarding your Services should be emailed to me at ig@isaac.run.
 
@@ -333,6 +333,6 @@ Best efforts will be made to keep all copies of this Agreement in parity, but
 in the event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
-Agreement Effective: 2025-09-25
-v1.2.4
+Agreement Effective: 2025-10-16
+v1.2.5
 (c) 2025 Isaacal Media
