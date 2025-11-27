@@ -47,7 +47,6 @@
 
 html {
   font-family: "TeX Gyre Pagella", "Palatino", "Times New Roman", serif;
-  font-size: 1.05em;
   text-wrap: pretty;
   background-color: var(--minimal-background);
   color: var(--lec-brown);
