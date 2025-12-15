@@ -6,7 +6,7 @@ This document is an agreement between:
   Isaac Greene d/b/a Isaacal Media and my affiliates ("I", "me", "my", etc.); and
   You. "You" (or "your", "yours", etc.) refers to the organization entering into
     this document. For the avoidance of doubt, the organization is responsible for
-    compliance with this Agreement by its employees, officers, and agents.
+    compliance with this Agreement by its employees, officers, agents, and users.
 
 The Isaac's Commercial Services Agreement (the "Agreement") applies to your use
 of any commercial services (the or my "Services") provided to you by me. You
@@ -93,7 +93,7 @@ connection with your use of the Services, except where provided above.
 My maximum liability in any event for any direct, indirect, inconsequential,
 exemplary, incidental or punitive damages, including lost profits, even if I
 have been advised of the possibility of such damages, is a refund of the monies you
-paid me in the previous six months from the date of your claim. To the maximum
+paid me in the previous two months from the date of your claim. To the maximum
 extent permitted by law, these limitations and exclusions apply to anything or
 any claims related to this Agreement, the Services, or the software related to
 the Services.
@@ -238,8 +238,8 @@ damages for any misuse of my Services, now or at any time in the future.
 
 ------------------------------------------------------------------------------
 14. Contact
-If you have questions about this Agreement, please email legal@ig7.us or
-text/call +1 (517) 798-6294.
+If you have questions about this Agreement, please email legal@zv.ax or text/
+call +1 (517) 798-6294.
 
 Questions regarding your Services should be emailed to me at ig@isaac.run.
 
@@ -333,6 +333,6 @@ Best efforts will be made to keep all copies of this Agreement in parity, but
 in the event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
-Agreement Effective: 2025-10-16
-v1.2.5
+Agreement Effective: 2025-12-15
+v1.2.6
 (c) 2025 Isaacal Media
