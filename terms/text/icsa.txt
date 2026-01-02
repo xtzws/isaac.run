@@ -65,24 +65,23 @@ requests for content removal under 17 USC Section 512(c)(3).
 ------------------------------------------------------------------------------
 3. Limitation of liability
 I will defend you against any third party claim brought against you, to the
-extent that such claim is based on an allegation that a paid Service,
-when used as authorized under this Agreement, infringes a United States or
-European Union patent or registered copyright, and I will indemnify you against
-any damages and costs (including reasonable legal fees) awarded by a court of
-competent jurisdiction attributable to such a claim or agreed to settlement by
-myself. If any portion of a paid Service becomes or I believe is likely
-to become the subject of an infringement claim, I may: a) work to procure the
-right for your continued use of the paid Service; b) modify the paid
-Service so it is non-infringing; or c) terminate the paid Service and
-refund your pre-paid costs that would have otherwise covered the remainder of
+extent that such claim is based on an allegation that a paid Service, when used
+as authorized under this Agreement, infringes a United States patent or registered
+copyright, and I will indemnify you against any damages and costs (including
+reasonable legal fees) awarded by a court of competent jurisdiction attributable
+to such a claim or agreed to settlement by myself. If any portion of a paid Service
+becomes or I believe is likely to become the subject of an infringement claim, I
+may a) work to procure the right for your continued use of the paid Service; b)
+modify the paid Service so it is non-infringing; or c) terminate the paid Service
+and refund your pre-paid costs that would have otherwise covered the remainder of
 your use, and upon termination you agree to immediately cease use of that paid
 Service. I have no obligation under this paragraph with respect to an infringement
-claim that is based upon: a) any use of a paid Service in violation of
-this Agreement; b) any use of a paid Service in combination with another
-product or service not provided by me; or c) any modification of a paid
-Service by any person other than myself or my authorized agents. This paragraph
-outlines my sole and exclusive obligations and your sole and exclusive remedies
-for any claims of infringement of intellectual property rights.
+claim that is based upon a) any use of a paid Service in violation of this Agreement;
+b) any use of a paid Service in combination with another product or service not
+provided by me; or c) any modification of a paid Service by any person other
+than myself or my authorized agents. This paragraph outlines my sole and exclusive
+obligations and your sole and exclusive remedies for any claims of infringement
+of intellectual property rights.
 
 I make no guarantees for the Services I provide. You agree to indemnify and
 hold harmless myself and any third parties I may contract with to provide the
@@ -329,8 +328,8 @@ Notice of Canonicalization
 
 There is potential for this version of the Agreement to be out-of-date. The most
 recent version can always be found at [https://www.isaac.run/terms/icsa/]
-Best efforts will be made to keep all copies of this Agreement in parity, but
-in the event there is any discrepancy, the most recent version shall prevail.
+Best efforts are made to keep all copies of this Agreement in parity, but in the
+event there is any discrepancy, the most recent version shall prevail.
 
 ==============================================================================
 Agreement Effective: 2025-12-15

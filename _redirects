@@ -8,3 +8,5 @@
 /site-updates /site/updates/ 301
 
 /ticket https://isaacg.atlassian.net/servicedesk/customer/portal/1 302
+
+/.well-known/security.txt https://zv.ax/.well-known/security.txt 302

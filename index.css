@@ -53,12 +53,16 @@ html {
 }
 
 body {
+  margin-top: 0;
+  margin-bottom: 0;
   max-width: 750px;
   margin-inline: auto;
   padding: 10px;
+  padding-top: 0;
 }
 
 h1 {
+  padding-top: 10px;
   text-decoration-line: underline;
   text-decoration-color: var(--isaac-blue);
   text-decoration-style: solid;
@@ -159,4 +163,40 @@ hr {
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 4px;
+}
+
+.banner {
+  width: 100vw;
+  margin-left: calc((750px - 100vw) / 2);
+  background-color: black;
+  display: flex;
+  @media only screen and (max-width: 770px) {
+    margin-left: -10px;
+  }
+}
+
+.banner-text {
+  width: 750px;
+  margin-inline: auto;
+  color: white;
+  font-size: small;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.banner-text > p {
+  margin-left: 10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.banner-text a {
+  color: white;
+}
+
+.banner-img {
+  height: 1em;
+  width: 1em;
+  align-self: center;
 }
